@@ -1,0 +1,36 @@
+{
+  "test_info": {
+    "filename": "Тест.kut",
+    "name": "Тест",
+    "description": "",
+    "max_possible_score": 100
+  },
+  "user_info": {
+    "login": "student_001",
+    "test_started": "2026-02-20T02:25:07.505040",
+    "test_completed": "2026-02-20T02:25:28.894385",
+    "duration_seconds": 21
+  },
+  "results": {
+    "score_obtained": 0,
+    "max_achievable_score": 1,
+    "percentage": 0.0,
+    "questions_total": 1,
+    "questions_answered": 0
+  },
+  "detailed_answers": [
+    {
+      "question_id": 1,
+      "question_text": "Вопрос 1",
+      "question_type": "single",
+      "user_answer": "None",
+      "correct_answers": [],
+      "is_correct": false,
+      "points_possible": 1
+    }
+  ],
+  "metadata": {
+    "saved_at": "2026-02-20T02:25:28.895363",
+    "version": "1.0"
+  }
+}

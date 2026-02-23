@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <info>
+    <name>Тест</name>
+    <description/>
+    <max_score>100</max_score>
+    <time_limit>60</time_limit>
+    <mix_questions>False</mix_questions>
+    <created>2026-02-18T18:15:02.002529</created>
+  </info>
+  <authentication>
+    <users>
+      <user login="student_001" password="G1bj05QbT7" used="false"/>
+      <user login="student_002" password="g0zXmTQCby" used="false"/>
+      <user login="student_003" password="r1H7kIrVV4" used="false"/>
+      <user login="student_004" password="kUcDKU0jQn" used="false"/>
+      <user login="student_005" password="7tzgAz70R1" used="false"/>
+      <user login="student_006" password="AidOSIkHxO" used="false"/>
+      <user login="student_007" password="PLRnaLybv0" used="false"/>
+      <user login="student_008" password="P7guKxiaPd" used="false"/>
+      <user login="student_009" password="3HmzQWqVkT" used="false"/>
+      <user login="student_010" password="650xlGwlMp" used="false"/>
+    </users>
+  </authentication>
+  <statistics>
+    <usage_count>0</usage_count>
+  </statistics>
+  <blocks>
+    <block id="1" name="Блок 1" random_count="4">
+      <questions>
+        <question id="1" type="single" points="1" block_id="1">
+          <text>Вопрос 1</text>
+          <options>
+            <option>АЛРПШДАОУРПШК</option>
+          </options>
+        </question>
+      </questions>
+    </block>
+  </blocks>
+</test>
